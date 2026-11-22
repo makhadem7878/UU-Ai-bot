@@ -1,0 +1,21 @@
+name = "uttara-university-ai-admission-assistant"
+main = "cloudflare/worker.ts"
+compatibility_date = "2026-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+[[rules]]
+type = "Text"
+globs = ["**/*.csv"]
+fallthrough = true
+
+[vars]
+# Optional comma-separated custom production origins (e.g., "https://admission-ai.uttarauniversity.edu.bd")
+ALLOWED_ORIGINS = ""
+
+# Secret required in production (set via: npx wrangler secret put GEMINI_API_KEY)
+# GEMINI_API_KEY

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "univ-overview-01",
+    "category": "university_overview",
+    "title": "Uttara University Overview",
+    "content": "Uttara University was established in 2003 in Dhaka, Bangladesh. Its permanent campus is located at Holding 77, Beribadh Road, Turag, Uttara, Dhaka 1230. According to the official About page, the university operates across 5 Academic Schools, 14 Departments, and 39 Academic Programs, following a two-semester-per-year academic calendar.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/about-us/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Current",
+    "verification_status": "verified"
+  },
+  {
+    "id": "univ-schools-01",
+    "category": "academic_schools",
+    "title": "Five Academic Schools of Uttara University",
+    "content": "Uttara University comprises 5 Academic Schools: (1) School of Arts and Social Science (SoASS), (2) School of Business Administration (SoBA), (3) School of Civil, Environment and Industrial Engineering (SoCEIE), (4) School of Education and Physical Education (SoEPE), and (5) School of Science and Engineering (SoSE).",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/schools/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Current",
+    "verification_status": "verified"
+  },
+  {
+    "id": "univ-admission-period-01",
+    "category": "admission_deadline",
+    "title": "Fall 2026 Admission Window",
+    "content": "According to the published Tuition and Fees page, Fall 2026 admission is open during September–December 2026. An exact closing date or admission test schedule is not published in the verified dataset. Students should contact the Admission Office (09640 888272 / info@uttarauniversity.edu.bd) to confirm the exact application closing date and admission test schedule.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/tuition-fees/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Fall 2026 (September–December 2026)",
+    "verification_status": "verified"
+  },
+  {
+    "id": "univ-admission-process-01",
+    "category": "admission_process",
+    "title": "Application Process & Required Documents",
+    "content": "Applicants can apply online through the official Uttara University Admission portal or in person at the Admission Office (Holding 77, Beribadh Road, Turag, Uttara, Dhaka 1230). Required documents for admission typically include: (1) Original and photocopies of academic certificates, transcripts/mark sheets, and testimonials (SSC/O-Level, HSC/A-Level, Diploma, or Bachelor's degree as applicable); (2) 3 copies of recent passport-size photographs; (3) Copy of National Identity Card (NID) or Birth Certificate; (4) Any department-specific documents if requested (e.g., migration certificate for transfer/international students). Important: Never upload sensitive personal scans through this AI chat interface—submit documents only through the official university admission portal or office.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/admission/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Fall 2026",
+    "verification_status": "verified"
+  },
+  {
+    "id": "univ-admission-deadline-exact-placeholder",
+    "category": "admission_deadline",
+    "title": "Exact Application Closing & Admission Test Dates",
+    "content": "Exact day-specific application closing date and department-wise admission test dates for the current intake are not verified in this static seed record and require confirmation from the Admission Office.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/admission/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Fall 2026",
+    "verification_status": "needs_review"
+  }
+]

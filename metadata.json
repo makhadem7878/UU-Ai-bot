@@ -1,0 +1,6 @@
+{
+  "name": "Uttara University AI Admission Assistant",
+  "description": "Official university data-based AI admission support chatbot, fee guide, eligibility checker, and scholarship estimator for Uttara University, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

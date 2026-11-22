@@ -1,0 +1,50 @@
+[
+  {
+    "id": "faq-semesters",
+    "category": "faq",
+    "title": "How many semesters does Uttara University have per year?",
+    "content": "According to Uttara University's official About page, the university operates two semesters annually.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/about-us/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Current",
+    "verification_status": "verified"
+  },
+  {
+    "id": "faq-fee-calculator",
+    "category": "faq",
+    "title": "How can I calculate my exact tuition fee and waiver?",
+    "content": "Students can calculate program-wise fees and waivers using the official Uttara University ERP Tuition Fee Calculator at https://erp.uttarauniversity.edu.bd/tuition-fee-calculator or consult the Admission Office directly.",
+    "program_name": null,
+    "source_url": "https://erp.uttarauniversity.edu.bd/tuition-fee-calculator",
+    "source_type": "official_portal",
+    "last_verified": "2026-11-21",
+    "validity_period": "Current",
+    "verification_status": "verified"
+  },
+  {
+    "id": "faq-campus-location",
+    "category": "faq",
+    "title": "Where is Uttara University campus located?",
+    "content": "Uttara University's campus is located at Holding 77, Beribadh Road, Turag, Uttara, Dhaka 1230, Bangladesh.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/contact-us/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Current",
+    "verification_status": "verified"
+  },
+  {
+    "id": "faq-old-pdf-policy",
+    "category": "faq",
+    "title": "Historical / Outdated Admission Policies",
+    "content": "Old PDF brochures or previous semester fee circulars are historical records and must not be treated as current admission or fee policies. Always refer to the current Fall 2026 web pages or Admission Office.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/tuition-fees/",
+    "source_type": "policy_rule",
+    "last_verified": "2026-11-21",
+    "validity_period": "Historical",
+    "verification_status": "historical"
+  }
+]

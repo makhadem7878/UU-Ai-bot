@@ -1,0 +1,50 @@
+[
+  {
+    "id": "schol-fall2026-founder",
+    "category": "scholarship",
+    "title": "Founder Scholarship (Fall 2026 Policy)",
+    "content": "Under the Fall 2026 Scholarship Policy, eligible students who achieved GPA 5.00 in both SSC and HSC (subject to passing-year limits and official policy terms) qualify for the Founder Scholarship. Note: Tuition scholarships are subject to the official scholarship cap of up to 60% under current policy conditions and apply to tuition fees only (not admission/registration/non-tuition fees). Final scholarship approval is determined solely by the Admission Office upon verifying original transcripts.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/scholarship-policy/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Fall 2026",
+    "verification_status": "verified"
+  },
+  {
+    "id": "schol-fall2026-merit",
+    "category": "scholarship",
+    "title": "Merit-Based Tuition Fee Scholarships (Fall 2026)",
+    "content": "Uttara University awards merit-based tuition waivers based on SSC and HSC (or equivalent) GPA results, as well as semester-by-semester academic performance (CGPA) for continuing students. Program-specific scholarship offers may also apply depending on the department and intake. All waivers are subject to passing-year eligibility, minimum credit load, and disciplinary standing.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/scholarship-policy/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Fall 2026",
+    "verification_status": "verified"
+  },
+  {
+    "id": "schol-fall2026-female",
+    "category": "scholarship",
+    "title": "Additional 5% Scholarship for Eligible Female Students",
+    "content": "Eligible female students receive an additional 5% tuition scholarship on top of qualifying merit waivers, subject to the overall 60% maximum scholarship cap and Fall 2026 policy terms.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/scholarship-policy/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Fall 2026",
+    "verification_status": "verified"
+  },
+  {
+    "id": "schol-fall2026-cap",
+    "category": "scholarship",
+    "title": "Scholarship Maximum Cap (60%)",
+    "content": "Under the Fall 2026 Scholarship Policy, combined scholarships/waivers are subject to a maximum cap of 60% of tuition fees, unless an explicit exception is authorized under official university policy. Calculator results in this assistant are preliminary estimates only—not an official scholarship approval.",
+    "program_name": null,
+    "source_url": "https://uttarauniversity.edu.bd/scholarship-policy/",
+    "source_type": "official_webpage",
+    "last_verified": "2026-11-21",
+    "validity_period": "Fall 2026",
+    "verification_status": "verified"
+  }
+]
